@@ -1,0 +1,7 @@
+name: RandomTeleport
+author: VisMUT
+main: RandomTeleport.main.main
+version: 1.2
+commands:
+  rtp:
+    description: Телепорт в случайную точку на карте.

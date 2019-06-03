@@ -1,0 +1,15 @@
+# name: RandomTeleport
+# version: 1.2
+# author: VisMUT
+# Mc-Nova 19.09.2018
+Config:
+  InitialCoordinate:
+    x: 0
+    z: 0
+  Range:
+    min: -7000
+    max: 7000
+  Messages:
+    prefix: '&cMc&7-&6Nova'
+    teleport_text_start: '&6Вы телепортированы на'
+    teleport_text_end: '&6блоков'
