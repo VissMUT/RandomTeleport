@@ -8,6 +8,20 @@ Minecraft plugin that allows players to move to a random point on the map.
 
 /rtp reload - reboot plugin configuration
 
-<h3>Tested versions:</h3>
+<h3>Requirements:</h3>
 
-PaperSpigot 1.12.2 (git-Paper-1587)
+<h5>Compiling requirements:</h5>
+<blockquote>
+    <ul>
+        <li>JDK 1.8</li>
+        <li>Intellij IDEA</li>
+        <li>Git/Github (Optional)</li>
+    </ul>
+</blockquote>
+
+<h5>Tested minecraft versions:</h5>
+<blockquote>
+    <ul>
+        <li>PaperSpigot 1.12.2 (git-Paper-1587)</li>
+    </ul>
+</blockquote>
