@@ -10,6 +10,12 @@ Minecraft plugin that allows players to move to a random point on the map.
     <li>/rtp reload - reboot plugin configuration</li>
 </ul>
 
+<h3>Permissions:</h3>
+
+<ul>
+    <li>rtp.reload - restart plugin configuration</li>
+</ul>
+
 <h3>Requirements:</h3>
 
 <h5>Compiling requirements:</h5>
